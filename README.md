@@ -1,3 +1,21 @@
+In recent weeks (late March 2021 - early April 2021), some changes appear to have been made to the way Google detects its users' locations, as a result of which, one cannot access Google's services from inside Iran even using a VPN.
+
+### What services have been affected?
+
+- Youtube: Some Iranian youtubers have reported some viewership coming from Iran despite the fact that Youtube is blocked by Iranian authorities and Iranians have to use a VPN in order to watch Youtube videos.
+- Developer Services: Some services related to Google-backed platforms like Android or programming languages like Go
+- Youtube Premium
+- Youtube Kids: Please note that this is a free service and has never been subject to sanctions.
+- Spotify: Spotify is served by Google Cloud Platform (GCP).
+- Google Cloud Platform (GCP)
+
+### FAQ
+
+- Has Google suspended Gmail for Iranians due to sanctions? No.
+- Has Google suspended Drive for Iranians due to sanctions? No.
+- Has Google suspended any of its services for Iranians due to sanctions? No. There has been no indications of any changes in Google's policies.
+- What is this repo about? The rest of this article is in Farsi and provides instructions for Iranians on how to export a copy of their contents in their Google account just in case.
+
 <div dir='rtl'>
   
   
