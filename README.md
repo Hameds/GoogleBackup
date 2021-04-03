@@ -91,7 +91,7 @@ https://browserleaks.com/ip
 - NordVPN
 - ExpressVPN
 - Mullvad
-
+- Windscribe [منبع](https://github.com/Hameds/GoogleBackup/issues/9)
 
 ### تجربه شما
 
