@@ -23,7 +23,7 @@ In recent weeks (late March 2021 - early April 2021), some changes appear to hav
 بکاپ از گوگل: چه اتفاقی افتاده و چه باید کرد؟
 
 
-### چه اتفاقی افتاده است؟
+## چه اتفاقی افتاده است؟
 در هفته‌های اخیر تغییراتی در شیوه شناسایی محل کاربران از سمت گوگل اتفاق افتاده که در نتیجه آن حتی اگر از VPN برای دسترسی به سرویس‌های گوگل استفاده کنید باز هم اینکه از ایران هستید را تشخیص داده و از استفاده شده جلوگیری کند.
 
 **چه سرویس‌هایی تا کنون از این تغییر تاثیر گرفته‌اند؟**
@@ -33,7 +33,7 @@ In recent weeks (late March 2021 - early April 2021), some changes appear to hav
 - Youtube Premium [منبع](https://twitter.com/AmirFouladvand/status/1378344635953713153)
 - Youtube Kids: دقت کنید که این سرویس رایگان می‌باشد و از سوی گوگل تحریم نیست. [منبع](https://twitter.com/AmirFouladvand/status/1378344635953713153)
 - Spotify: اسپاتیفای روی زیرساخت ابری گوگل (GCP) قرار دارد. [منبع](https://twitter.com/yashar_rashedi/status/1377947240078176259)
-- GCP
+- GCP و برخی مشتریان آن به عنوان مثال tinypng.com [منبع](https://github.com/Hameds/GoogleBackup/issues/7)
 - Google Analytics [منبع](https://twitter.com/AmirFouladvand/status/1378222387129368584)
 - kaggle [منبع](https://twitter.com/MrAlihoseiny/status/1378383671133081606)
 - Google Ads [منبع](https://twitter.com/AmirFouladvand/status/1378344635953713153)
@@ -43,7 +43,7 @@ In recent weeks (late March 2021 - early April 2021), some changes appear to hav
 
 معمولاً خطای 403 گزارش شده است و در یک مورد خطای 404. لطفاً اگر تجربه‌ای در این موارد داشته‌اید آن را در بخش  [Issues](https://github.com/Hameds/GoogleBackup/issues) یا با ویرایش این فایل در بخش «تجربه شما» به اشتراک بگذارید
 
-### بکاپ به چه معناست و چه باید بکنم؟
+## بکاپ به چه معناست و چه باید بکنم؟
 نسخه پشتیبان یا Backup  به معنی یک نسخه از اطلاعات شماست که روی سرویس‌های گوگل قرار دارد مثلاً یک نسخه از تمام ایمیل‌های شما یا یک نسخه از تمام مخاطبین یا فایل‌های شما که روی Google Drive قرار دارد.
 
 برای دریافت بکاپ به آدرس [Google Takeout](https://takeout.google.com) مراجعه کنید و سرویس‌هایی که می‌خواهید یک نسخه پشتیبان از اطلاعات آن‌ها دریافت کنید را مشخص کنید. در ادامه Export once را انتخاب و تایید کنید. بعد از مدتی یک ایمیل حاوی لینک دانلود اطلاعات برای شما ارسال می‌شود.
@@ -54,7 +54,7 @@ In recent weeks (late March 2021 - early April 2021), some changes appear to hav
 بعد از دانلود فایل‌های بکاپ به روش اشاره شده در [این توییت](https://twitter.com/oraclenik/status/1378389345955155972) آن‌ها را رمزنگاری کنید.
 
 
-### سوالات متداول
+## سوالات متداول
 
 - آیا جیمیل ایران را تحریم کرده؟ خیر
 - آیا گوگل درایو ایران را تحریم کرده؟ خیر
@@ -93,7 +93,7 @@ https://browserleaks.com/ip
 - Mullvad
 - Windscribe [منبع](https://github.com/Hameds/GoogleBackup/issues/9)
 
-### تجربه شما
+## تجربه شما
 
 لطفاً اگر تجربه‌ای در این خصوص دارید، فایل `Readme.md` این مخزن را ویرایش کرده و `Pull Request`  ارسال کنید یا آن را از طریق بخش [Issues](https://github.com/Hameds/GoogleBackup/issues) به اشتراک بگذارید.
 
