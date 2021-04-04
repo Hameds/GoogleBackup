@@ -43,7 +43,6 @@ In recent weeks (late March 2021 - early April 2021), some changes appear to hav
 - GCP و برخی مشتریان آن به عنوان مثال tinypng.com [منبع](https://github.com/Hameds/GoogleBackup/issues/7)
 - Google Analytics [منبع](https://twitter.com/AmirFouladvand/status/1378222387129368584)
 - kaggle [منبع](https://twitter.com/MrAlihoseiny/status/1378383671133081606)
-- Google Ads [منبع](https://twitter.com/AmirFouladvand/status/1378344635953713153)
 - Google 2FA [منبع](https://twitter.com/only_sadeghi/status/1378437673162043392)
 - Google OAuth 2.0 [منبع](https://twitter.com/babakmhz/status/1378364207482212358)
 - Google Prompt [منبع](https://github.com/Hameds/GoogleBackup/issues/13)
