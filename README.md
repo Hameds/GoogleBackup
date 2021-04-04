@@ -15,6 +15,8 @@ In recent weeks (late March 2021 - early April 2021), some changes appear to hav
 - Google 2FA
 - Google OAuth 2.0
 - Google Prompt
+- Firebase Remote Config
+- Firebase Auth
 - Last.fm
 
 ### FAQ
@@ -43,6 +45,8 @@ In recent weeks (late March 2021 - early April 2021), some changes appear to hav
 - Google 2FA [منبع](https://twitter.com/only_sadeghi/status/1378437673162043392)
 - Google OAuth 2.0 [منبع](https://twitter.com/babakmhz/status/1378364207482212358)
 - Google Prompt [منبع](https://github.com/Hameds/GoogleBackup/issues/13)
+- Firebase Remote Config [منبع](https://twitter.com/behdad222/status/1378688158494289922) با این مورد عملاً اپ‌هایی که از این قابلیت استفاده می‌کنند امکان بروزرسانی راه‌دور تنظیمات نیست و برای کاربران بسیاری مشکل ایجاد خواهد کرد. این مساله حتی با VPN هم حل نمی‌شود
+- Firebase Auth: این سرویس قبلاً هم برای این تحریم بوده اما به کمک VPN می‌شده در اپ‌هایی که از این قابلیت استفاده کردند حساب کاربری ساخت یا وارد شد اما حالا حتی با VPN هم نمی‌شود این کار را کرد. اپ‌های زیادی از این قابلیت استفاده می‌کنند و این مساله برای کاربران مشکل ایجاد خواهد کرد.
 - Last.fm [منبع](https://twitter.com/don_wp/status/1378256122071687168)
 - اگر سرویس دیگری می‌شناسید لطفاً در بخش [Issues](https://github.com/Hameds/GoogleBackup/issues) اعلام کنید.
 
