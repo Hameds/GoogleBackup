@@ -121,5 +121,10 @@ https://browserleaks.com/ip
 
 لطفاً اگر تجربه‌ای در این خصوص دارید، فایل `Readme.md` این مخزن را ویرایش کرده و `Pull Request`  ارسال کنید یا آن را از طریق بخش [Issues](https://github.com/Hameds/GoogleBackup/issues) به اشتراک بگذارید.
 
+## VPN جهت گرفتن بکاپ
+شما میتونید vpn windscribe رو بصورت رایگان دانلود کنید 
+بعدش از طریق فایل زیر ( که اونهم باید دانلود شه)
+داخلش 10 تا اکانت بهمراه یوزر پس موجوده که میتونید ازش استفاده کنید
+[گرفتن رمز و نام کاربری](https://mega.nz/file/dpYBQKhS#Ud6nzu4lYDXCJu_W3LrZoGTBhbWfTpDio-3PLAk-6ug)
 
 </div>
