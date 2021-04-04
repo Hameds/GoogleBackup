@@ -13,6 +13,7 @@ In recent weeks (late March 2021 - early April 2021), some changes appear to hav
 - Google Ads
 - Google 2FA
 - Google OAuth 2.0
+- Google Prompt
 - Last.fm
 
 ### FAQ
@@ -45,6 +46,7 @@ In recent weeks (late March 2021 - early April 2021), some changes appear to hav
 - Google Ads [منبع](https://twitter.com/AmirFouladvand/status/1378344635953713153)
 - Google 2FA [منبع](https://twitter.com/only_sadeghi/status/1378437673162043392)
 - Google OAuth 2.0 [منبع](https://twitter.com/babakmhz/status/1378364207482212358)
+- Google Prompt [منبع](https://github.com/Hameds/GoogleBackup/issues/13)
 - Last.fm [منبع](https://twitter.com/don_wp/status/1378256122071687168)
 - اگر سرویس دیگری می‌شناسید لطفاً در بخش [Issues](https://github.com/Hameds/GoogleBackup/issues) اعلام کنید.
 
