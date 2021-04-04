@@ -1,3 +1,5 @@
+# Google Backup
+
 In recent weeks (late March 2021 - early April 2021), some changes appear to have been made to the way Google detects its users' locations, as a result of which, one cannot access Google's services from inside Iran even using a VPN.
 
 ### What services have been affected?
@@ -24,10 +26,6 @@ In recent weeks (late March 2021 - early April 2021), some changes appear to hav
 
 <div dir='rtl'>
   
-  
-# GoogleBackup
-بکاپ از گوگل: چه اتفاقی افتاده و چه باید کرد؟
-
 
 ## چه اتفاقی افتاده است؟
 در هفته‌های اخیر تغییراتی در شیوه شناسایی محل کاربران از سمت گوگل اتفاق افتاده که در نتیجه آن حتی اگر از VPN برای دسترسی به سرویس‌های گوگل استفاده کنید باز هم اینکه از ایران هستید را تشخیص داده و از استفاده از بعضی سرویس‌ها جلوگیری کند. بعضی این را مرتبط با [تغییرات در مالیات از درآمد یوتوب](https://support.google.com/youtube/answer/10391362?hl=en) می‌دانند که باعث شده گوگل مکانیزم شناسایی محل کاربران را بروز کند.
@@ -50,7 +48,7 @@ In recent weeks (late March 2021 - early April 2021), some changes appear to hav
 
 **چه خطایی دریافت می‌شود؟**
 
-معمولاً خطای 403 گزارش شده است و در یک مورد خطای 404. لطفاً اگر تجربه‌ای در این موارد داشته‌اید آن را در بخش  [Issues](https://github.com/Hameds/GoogleBackup/issues) یا با ویرایش این فایل در بخش «تجربه شما» به اشتراک بگذارید
+معمولاً خطای 403 گزارش شده است و در یک مورد خطای 404 [منبع](https://twitter.com/bkhezry/status/1377970749374365697). لطفاً اگر تجربه‌ای در این موارد داشته‌اید آن را در بخش  [Issues](https://github.com/Hameds/GoogleBackup/issues) یا با ویرایش این فایل در بخش «تجربه شما» به اشتراک بگذارید
 
 ## بکاپ به چه معناست و چه باید بکنم؟
 نسخه پشتیبان یا Backup  به معنی یک نسخه از اطلاعات شماست که روی سرویس‌های گوگل قرار دارد مثلاً یک نسخه از تمام ایمیل‌های شما یا یک نسخه از تمام مخاطبین یا فایل‌های شما که روی Google Drive قرار دارد.
