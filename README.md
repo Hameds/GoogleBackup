@@ -94,6 +94,17 @@ https://browserleaks.com/ip
 
 رفع نشت webRTC با استفاده از پلاگین‌های نظیر WebRTC Leak Prevent یا استفاده از VPNهای معتبر قابل انجام است
 
+##### Timezone:
+یکی از راه های شناخت کشور کاربر، دریافت منطقه زمانی از مرورگر هست
+
+برای بررسی این نشست نیز می‌توانید از سایت‌های زیر استفاده کنید:
+
+https://webbrowsertools.com/timezone/
+
+افزونه هایی مثل Spoof Timezone می تونن منطقه زمانی شما به منطقه زمانی VPN ای که دارید تغییر بدن
+
+https://chrome.google.com/webstore/detail/spoof-timezone/kcabmhnajflfolhelachlflngdbfhboe?hl=en
+
 ### VPNهای تست شده
 این VPNها طبق بررسی انجام شده دارای حداقل نشتی در اطلاعات هستند و در دیتاسنترهای معتبر میزبانی می‌شوند :
 
