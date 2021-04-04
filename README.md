@@ -8,6 +8,12 @@ In recent weeks (late March 2021 - early April 2021), some changes appear to hav
 - Youtube Kids: Please note that this is a free service and has never been subject to sanctions.
 - Spotify: Spotify is served by Google Cloud Platform (GCP).
 - Google Cloud Platform (GCP)
+- Google Analytics
+- kaggle
+- Google Ads
+- Google 2FA
+- Google OAuth 2.0
+- Last.fm
 
 ### FAQ
 
