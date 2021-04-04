@@ -10,7 +10,6 @@ In recent weeks (late March 2021 - early April 2021), some changes appear to hav
 - Google Cloud Platform (GCP)
 - Google Analytics
 - kaggle
-- Google Ads
 - Google 2FA
 - Google OAuth 2.0
 - Google Prompt
