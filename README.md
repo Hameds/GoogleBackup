@@ -55,7 +55,7 @@ In recent weeks (late March 2021 - early April 2021), some changes appear to hav
 
 برای دریافت بکاپ به آدرس [Google Takeout](https://takeout.google.com) مراجعه کنید و سرویس‌هایی که می‌خواهید یک نسخه پشتیبان از اطلاعات آن‌ها دریافت کنید را مشخص کنید. در ادامه Export once را انتخاب و تایید کنید. بعد از مدتی یک ایمیل حاوی لینک دانلود اطلاعات برای شما ارسال می‌شود.
 
-⚠️ نکته مهم: اگر کلمات عبور خود را روی مرورگر کروم ذخیره کردید به آدرس [Google Password Manager](https://password.google.com) رفته و یک نسخه پشتیبان تهیه کنید.
+⚠️ نکته مهم: اگر کلمات عبور خود را روی مرورگر کروم ذخیره کردید به آدرس [Google Password Manager](https://passwords.google.com) رفته و یک نسخه پشتیبان تهیه کنید.
 
 **رمزنگاری فایل‌های بکاپ**
 
