@@ -29,7 +29,7 @@ In recent weeks (late March 2021 - early April 2021), some changes appear to hav
 **چه سرویس‌هایی تا کنون از این تغییر تاثیر گرفته‌اند؟**
 
 - Youtube: یوتبرهای ایرانی گزارش می‌کنند که بخشی از آمار بازدید آن‌ها از ایران تشخیص داده می‌شود. [منبع](https://twitter.com/amirabbas/status/1377186765358854144)
-- Developer Services: بعضی از سرویس‌های مرتبط با برنامه‌نویسی مانند اندروید یا زبان Go [منبع](https://twitter.com/ans_ashkan/status/1378370073765756928) 
+- Developer Services: بعضی از سرویس‌های مرتبط با برنامه‌نویسی مانند بخش توسعه‌دهندگان اندروید [منبع](https://twitter.com/ErFUN_KH/status/1378320906213339136) یا زبان Go [منبع](https://twitter.com/ans_ashkan/status/1378370073765756928) 
 - Youtube Premium [منبع](https://twitter.com/AmirFouladvand/status/1378344635953713153)
 - Youtube Kids: دقت کنید که این سرویس رایگان می‌باشد و از سوی گوگل تحریم نیست. [منبع](https://twitter.com/AmirFouladvand/status/1378344635953713153)
 - Spotify: اسپاتیفای روی زیرساخت ابری گوگل (GCP) قرار دارد. [منبع](https://twitter.com/yashar_rashedi/status/1377947240078176259)
