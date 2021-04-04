@@ -39,7 +39,7 @@ In recent weeks (late March 2021 - early April 2021), some changes appear to hav
 - Youtube Premium [منبع](https://twitter.com/AmirFouladvand/status/1378344635953713153)
 - Youtube Kids: دقت کنید که این سرویس رایگان می‌باشد و از سوی گوگل تحریم نیست. [منبع](https://twitter.com/AmirFouladvand/status/1378344635953713153)
 - Spotify: اسپاتیفای روی زیرساخت ابری گوگل (GCP) قرار دارد. [منبع](https://twitter.com/yashar_rashedi/status/1377947240078176259)
-- GCP و برخی مشتریان آن به عنوان مثال tinypng.com [منبع](https://github.com/Hameds/GoogleBackup/issues/7)
+- GCP و برخی مشتریان آن به عنوان مثال tinypng.com و ifconfig.me [منبع](https://github.com/Hameds/GoogleBackup/issues/7)
 - Google Analytics [منبع](https://twitter.com/AmirFouladvand/status/1378222387129368584)
 - kaggle [منبع](https://twitter.com/MrAlihoseiny/status/1378383671133081606)
 - Google 2FA [منبع](https://twitter.com/only_sadeghi/status/1378437673162043392)
