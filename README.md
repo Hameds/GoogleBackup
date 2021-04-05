@@ -17,6 +17,12 @@ In recent weeks (late March 2021 - early April 2021), some changes appear to hav
 - Google Prompt
 - Firebase Remote Config
 - Firebase Auth
+- Google Workspace
+- Google Play Books
+- Google Ads
+- Google Play Console
+- Castbox
+- Google Scholar
 - Last.fm
 
 ### FAQ
@@ -47,6 +53,12 @@ In recent weeks (late March 2021 - early April 2021), some changes appear to hav
 - Google Prompt [منبع](https://github.com/Hameds/GoogleBackup/issues/13)
 - Firebase Remote Config [منبع](https://twitter.com/behdad222/status/1378688158494289922) با این مورد عملاً اپ‌هایی که از این قابلیت استفاده می‌کنند امکان بروزرسانی راه‌دور تنظیمات نیست و برای کاربران بسیاری مشکل ایجاد خواهد کرد. این مساله حتی با VPN هم حل نمی‌شود
 - Firebase Auth: این سرویس قبلاً هم برای این تحریم بوده اما به کمک VPN می‌شده در اپ‌هایی که از این قابلیت استفاده کردند حساب کاربری ساخت یا وارد شد اما حالا حتی با VPN هم نمی‌شود این کار را کرد. اپ‌های زیادی از این قابلیت استفاده می‌کنند و این مساله برای کاربران مشکل ایجاد خواهد کرد.
+- Google Workspace [منبع](https://twitter.com/MesgariSaber/status/1378745573042487302)
+- Google Play Books [منبع](https://twitter.com/MesgariSaber/status/1378746603759144961)
+- Google Ads [منبع](https://twitter.com/alirezaord/status/1378417030500642823)
+- Google Play Console [منبع](https://twitter.com/MrOplus/status/1378780969637920776)
+- Castbox [منبع](https://twitter.com/AmirFouladvand/status/1379023024494678017)
+- Google Scholar [منبع](https://twitter.com/mohammadfrji/status/1379006969223208961)
 - Last.fm [منبع](https://twitter.com/don_wp/status/1378256122071687168)
 - اگر سرویس دیگری می‌شناسید لطفاً در بخش [Issues](https://github.com/Hameds/GoogleBackup/issues) اعلام کنید.
 
@@ -74,11 +86,12 @@ In recent weeks (late March 2021 - early April 2021), some changes appear to hav
 - بعد از اقدام به بکاپ، به من می‌گوید چند ساعت یا چند روز طول می‌کشد بکاپ آماده شود. چه کنم؟ نگران نباشید، خیلی زود لینک دانلود بکاپ ایمیل خواهد شد.
 - موقع دانلود فایل بکاپ با خطای 403 مواجه می‌شوم. چه کنم؟ از VPN استفاده کنید.
 - با وجود استفاده از VPN باز هم با خطای 403 در موقع دانلود بکاپ مواجه می‌شوم. چه کنم؟ از VPN دیگری استفاده کنید و نگران نباشید
+- با هیچ VPN نتوانستم فایل بکاپ را دانلود کنم. چه کنم؟ طبق راهنمایی [این توییت برای استفاده از OneDrive](https://twitter.com/hamidziaei/status/1378586883878440962) عمل کنید
 - اصلاً چرا باید بکاپ گرفت؟ صرفنظر از اینکه تحریم باشیم یا نباشیم، داشتن بکاپ از اطلاعات باعث آسودگی خاطر در زمان بحران‌های احتمالی است
 
 ## نشت‌های احتمالی
 یکی از موارد مهمی که باعث مواجه شدن با خطای 403 می‌شود استفاده از VPNهای متفرقه با شیرینگ زیاد است. 
-این VPNها باعث نشست‌های مختلف در سطوح مختلف می‌شوند و در نتیجه گوگل به مشخصات اصلی شما پی خواهد برد
+این VPNها باعث نشت‌های مختلف در سطوح مختلف می‌شوند و در نتیجه گوگل به مشخصات اصلی شما پی خواهد برد
 #### برخی از این نشت‌ها (leaks)
 ##### IP and DNS leaks
 این نشت زمانی اتفاق می‌افتد که VPN شما تنها برای گذر از فیلترینگ طراحی شده و توانایی رمزنگاری دیتا در سطح بالا را ندارد به همین دلیل آی‌پی اصلی شما مشخص خواهد شد
