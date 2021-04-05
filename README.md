@@ -28,6 +28,7 @@ In recent weeks (late March 2021 - early April 2021), some changes appear to hav
 - Last.fm
 - Waze 
 - Google Family
+- Slite (slite.com)
 
 ### FAQ
 
@@ -68,6 +69,7 @@ In recent weeks (late March 2021 - early April 2021), some changes appear to hav
 - Last.fm [منبع](https://twitter.com/don_wp/status/1378256122071687168)
 - Waze [منبع](https://github.com/Hameds/GoogleBackup/issues/27) در مورد این مسیریاب، کاربران دیگری هم به بروز خطا اشاره داشته‌اند
 - Google Family [منبع](https://github.com/Hameds/GoogleBackup/issues/27)
+- Slite [منبع](https://twitter.com/MesgariSaber/status/1378780262537048066)
 - اگر سرویس دیگری می‌شناسید لطفاً در بخش [Issues](https://github.com/Hameds/GoogleBackup/issues) اعلام کنید.
 
 **چه خطایی دریافت می‌شود؟**
