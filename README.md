@@ -23,6 +23,7 @@ In recent weeks (late March 2021 - early April 2021), some changes appear to hav
 - Google Play Console
 - Castbox
 - Google Scholar
+- Google Podcasts
 - Last.fm
 
 ### FAQ
@@ -59,6 +60,7 @@ In recent weeks (late March 2021 - early April 2021), some changes appear to hav
 - Google Play Console [منبع](https://twitter.com/MrOplus/status/1378780969637920776)
 - Castbox [منبع](https://twitter.com/AmirFouladvand/status/1379023024494678017)
 - Google Scholar [منبع](https://twitter.com/mohammadfrji/status/1379006969223208961)
+- Google Podcasts [منبع](https://github.com/Hameds/GoogleBackup/issues/31)
 - Last.fm [منبع](https://twitter.com/don_wp/status/1378256122071687168)
 - اگر سرویس دیگری می‌شناسید لطفاً در بخش [Issues](https://github.com/Hameds/GoogleBackup/issues) اعلام کنید.
 
