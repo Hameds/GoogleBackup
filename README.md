@@ -112,6 +112,7 @@ https://chrome.google.com/webstore/detail/spoof-timezone/kcabmhnajflfolhelachlfl
 - ExpressVPN
 - Mullvad
 - Windscribe [منبع](https://github.com/Hameds/GoogleBackup/issues/9)
+- Keepsolid (Redeem a code : VPNMACXDNS | 6 months free)
 
 ## محتویات فایل‌ بک‌آپ
 فایل بک‌آپ شامل تمام داده‌های سرویس‌های مختلف گوگل میباشد. مثلا:
