@@ -24,6 +24,7 @@ In recent weeks (late March 2021 - early April 2021), some changes appear to hav
 - Castbox
 - Google Scholar
 - Google Podcasts
+- Google Container Registry
 - Last.fm
 
 ### FAQ
@@ -61,6 +62,7 @@ In recent weeks (late March 2021 - early April 2021), some changes appear to hav
 - Castbox [منبع](https://twitter.com/AmirFouladvand/status/1379023024494678017)
 - Google Scholar [منبع](https://twitter.com/mohammadfrji/status/1379006969223208961)
 - Google Podcasts [منبع](https://github.com/Hameds/GoogleBackup/issues/31)
+- Google Container Registry [منبع](https://github.com/Hameds/GoogleBackup/issues/28)
 - Last.fm [منبع](https://twitter.com/don_wp/status/1378256122071687168)
 - اگر سرویس دیگری می‌شناسید لطفاً در بخش [Issues](https://github.com/Hameds/GoogleBackup/issues) اعلام کنید.
 
