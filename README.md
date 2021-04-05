@@ -26,6 +26,8 @@ In recent weeks (late March 2021 - early April 2021), some changes appear to hav
 - Google Podcasts
 - Google Container Registry
 - Last.fm
+- Waze 
+- Google Family
 
 ### FAQ
 
@@ -64,6 +66,8 @@ In recent weeks (late March 2021 - early April 2021), some changes appear to hav
 - Google Podcasts [منبع](https://github.com/Hameds/GoogleBackup/issues/31)
 - Google Container Registry [منبع](https://github.com/Hameds/GoogleBackup/issues/28)
 - Last.fm [منبع](https://twitter.com/don_wp/status/1378256122071687168)
+- Waze [منبع](https://github.com/Hameds/GoogleBackup/issues/27) در مورد این مسیریاب، کاربران دیگری هم به بروز خطا اشاره داشته‌اند
+- Google Family [منبع](https://github.com/Hameds/GoogleBackup/issues/27)
 - اگر سرویس دیگری می‌شناسید لطفاً در بخش [Issues](https://github.com/Hameds/GoogleBackup/issues) اعلام کنید.
 
 **چه خطایی دریافت می‌شود؟**
