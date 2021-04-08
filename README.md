@@ -31,6 +31,7 @@ In recent weeks (late March 2021 - early April 2021), some changes appear to hav
 - Slite (slite.com)
 - Google One
 - Toggl
+- Grafana.com
 
 ### FAQ
 
@@ -74,6 +75,7 @@ In recent weeks (late March 2021 - early April 2021), some changes appear to hav
 - Slite [منبع](https://twitter.com/MesgariSaber/status/1378780262537048066)
 - Google One [منبع](https://github.com/Hameds/GoogleBackup/issues/41)
 - Toggl [منبع](https://github.com/Hameds/GoogleBackup/issues/40)
+- Grafana.com [منبع](https://github.com/Hameds/GoogleBackup/issues/37)
 - اگر سرویس دیگری می‌شناسید لطفاً در بخش [Issues](https://github.com/Hameds/GoogleBackup/issues) اعلام کنید.
 
 **چه خطایی دریافت می‌شود؟**
