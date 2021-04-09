@@ -32,6 +32,7 @@ In recent weeks (late March 2021 - early April 2021), some changes appear to hav
 - Google One
 - Toggl
 - Grafana.com
+- Firebase Dynamic Links
 
 ### FAQ
 
@@ -76,6 +77,7 @@ In recent weeks (late March 2021 - early April 2021), some changes appear to hav
 - Google One [منبع](https://github.com/Hameds/GoogleBackup/issues/41)
 - Toggl [منبع](https://github.com/Hameds/GoogleBackup/issues/40)
 - Grafana.com [منبع](https://github.com/Hameds/GoogleBackup/issues/37)
+- Firebase Dynamic Links [منبع](https://github.com/Hameds/GoogleBackup/issues/45)
 - اگر سرویس دیگری می‌شناسید لطفاً در بخش [Issues](https://github.com/Hameds/GoogleBackup/issues) اعلام کنید.
 
 **چه خطایی دریافت می‌شود؟**
