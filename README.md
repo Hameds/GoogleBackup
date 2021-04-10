@@ -33,6 +33,7 @@ In recent weeks (late March 2021 - early April 2021), some changes appear to hav
 - Toggl
 - Grafana.com
 - Firebase Dynamic Links
+- Youtube Music
 
 ### FAQ
 
@@ -78,6 +79,7 @@ In recent weeks (late March 2021 - early April 2021), some changes appear to hav
 - Toggl [منبع](https://github.com/Hameds/GoogleBackup/issues/40)
 - Grafana.com [منبع](https://github.com/Hameds/GoogleBackup/issues/37)
 - Firebase Dynamic Links [منبع](https://github.com/Hameds/GoogleBackup/issues/45)
+- Youtube Music [منبع](https://github.com/Hameds/GoogleBackup/issues/44)
 - اگر سرویس دیگری می‌شناسید لطفاً در بخش [Issues](https://github.com/Hameds/GoogleBackup/issues) اعلام کنید.
 
 **چه خطایی دریافت می‌شود؟**
