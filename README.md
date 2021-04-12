@@ -34,6 +34,7 @@ In recent weeks (late March 2021 - early April 2021), some changes appear to hav
 - Grafana.com
 - Firebase Dynamic Links
 - Youtube Music
+- flaticon.com
 
 ### FAQ
 
@@ -80,6 +81,7 @@ In recent weeks (late March 2021 - early April 2021), some changes appear to hav
 - Grafana.com [منبع](https://github.com/Hameds/GoogleBackup/issues/37)
 - Firebase Dynamic Links [منبع](https://github.com/Hameds/GoogleBackup/issues/45)
 - Youtube Music [منبع](https://github.com/Hameds/GoogleBackup/issues/44)
+- flaticon.com
 - اگر سرویس دیگری می‌شناسید لطفاً در بخش [Issues](https://github.com/Hameds/GoogleBackup/issues) اعلام کنید.
 
 **چه خطایی دریافت می‌شود؟**
