@@ -35,6 +35,7 @@ In recent weeks (late March 2021 - early April 2021), some changes appear to hav
 - Firebase Dynamic Links
 - Youtube Music
 - flaticon.com
+- HelloTech
 
 ### FAQ
 
@@ -82,6 +83,7 @@ In recent weeks (late March 2021 - early April 2021), some changes appear to hav
 - Firebase Dynamic Links [منبع](https://github.com/Hameds/GoogleBackup/issues/45)
 - Youtube Music [منبع](https://github.com/Hameds/GoogleBackup/issues/44)
 - flaticon.com
+- HelloTech [منبع](https://twitter.com/MesgariSaber/status/1380917221573193731)
 - اگر سرویس دیگری می‌شناسید لطفاً در بخش [Issues](https://github.com/Hameds/GoogleBackup/issues) اعلام کنید.
 
 **چه خطایی دریافت می‌شود؟**
