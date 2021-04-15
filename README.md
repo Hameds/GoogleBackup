@@ -143,7 +143,7 @@ https://browserleaks.com/ip
 - https://ip.voidsec.com/
 - https://browserleaks.com/webrtc
 
-رفع نشت webRTC با استفاده از پلاگین‌های نظیر WebRTC Leak Prevent یا استفاده از VPNهای معتبر قابل انجام است. <br />
+رفع نشت webRTC با استفاده از پلاگین‌های نظیر [WebRTC Leak Prevent](https://github.com/aghorler/WebRTC-Leak-Prevent) یا استفاده از VPNهای معتبر قابل انجام است. <br />
 برای رفع webRTC Leak در فایرفاکس در نوار آدرس about:config رو نوشته و واردش شوید، سپس روی دکمه Accept the Risk and Continue کلیک کرده، سپس media.peerconnection.enabled و media.navigator.enabled سرچ کرده و با دوبار کلیک کردن برروی آن مقدار آنرا False قرار دهید.
 
 ##### Timezone:
