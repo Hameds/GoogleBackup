@@ -37,6 +37,7 @@ In recent weeks (late March 2021 - early April 2021), some changes appear to hav
 - flaticon.com
 - HelloTech
 - Overleaf
+- Google Chat
 
 ### FAQ
 
@@ -86,6 +87,7 @@ In recent weeks (late March 2021 - early April 2021), some changes appear to hav
 - flaticon.com
 - HelloTech [منبع](https://twitter.com/MesgariSaber/status/1380917221573193731)
 - Overleaf [منبع](https://github.com/Hameds/GoogleBackup/issues/49)
+- Google Chat [منبع](https://github.com/Hameds/GoogleBackup/issues/51)
 - اگر سرویس دیگری می‌شناسید لطفاً در بخش [Issues](https://github.com/Hameds/GoogleBackup/issues) اعلام کنید.
 
 **چه خطایی دریافت می‌شود؟**
