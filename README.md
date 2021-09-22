@@ -174,7 +174,7 @@ https://chrome.google.com/webstore/detail/spoof-timezone/kcabmhnajflfolhelachlfl
 این VPNها طبق بررسی انجام شده دارای حداقل نشتی در اطلاعات هستند و در دیتاسنترهای معتبر میزبانی می‌شوند :
 
 - NordVPN
-- ExpressVPN
+- <del>ExpressVPN</del> به تازگی این سرویس‌دهنده توسط یک شرکت بریتانیایی-اسرائیلی که پیشتر پلتفرمی بوده که در آن بدافزار توزیع می‌شده [خریداری شده است](https://www.reuters.com/technology/kape-technologies-buys-expressvpn-936-mln-2021-09-13/)
 - Mullvad
 - Windscribe [منبع](https://github.com/Hameds/GoogleBackup/issues/9)
 - Keepsolid (Redeem a code : VPNMACXDNS | 6 months free)
